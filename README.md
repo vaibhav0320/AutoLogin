@@ -1,7 +1,7 @@
 # AutoLogin
 This extension is devloping phase i.e it has minimal functionality and stores password in RAW form (! CAUTION !) on local machine.
 
-This is a chrome extension that automatically logs in to captive portal when you open the web browser. Now it works for DA-IICT Web Client Portal but if you want to change it to some other web portal change URL in background.js .
+This is a chrome extension that automatically logs in to captive portal when you open the web browser. Now it works for DA-IICT Web Client Portal but if you want to change it to some other web portal change URL in background.js and manifest.json .
 
 You must provide username and password in content.js of your captive portal.
 
